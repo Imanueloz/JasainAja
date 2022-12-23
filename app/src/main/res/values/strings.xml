@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JasainAja2</string>
+    <string name="login">Login</string>
+    <string name="register">register</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="appnameregister">REGISTER</string>
+    <string name="passwordlog">password</string>
+    <string name="usernamelog">username</string>
+    <string name="loginlog">Login</string>
+    <string name="buat_akunlog">Buat Akun</string>
+    <string name="btnloginlog">Login</string>
+
+    <string-array name="quantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
